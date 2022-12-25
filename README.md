@@ -12,3 +12,8 @@ System and tool	version:
 Windows 10 Enterprise 20H2
 Calculator 10.2103.8.0
 WinAppDriver	1.2.1
+
+There are 4-5 test cases for each function.
+There are 500 test cases in total.
+
+Test cases give input values and read output values automatically. Then it determines the result is correct or not. 
